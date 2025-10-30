@@ -6,11 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **MORPH: Modular Omnivariant Robotic Programmable Hexagons**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/338).
-
-
-## 10/9/2025 - Finished research plan iteration 1!  
+## 10/8/2025 - Finished research plan iteration 1!  
 
 Today I finished research plan iteration 1 and sent it to an old teacher for review.
 It went pretty well, although he was right, I do have a lot of random bulk in the middle of it that I probably could appendice.
@@ -24,6 +20,26 @@ Here is a mockup of the electromagnet and bobbin we will use to actuate liquid p
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--bab490fc6a655c9e4ca6671129bea30de3cb1b34/image.png)
 
 (Although I've started this project a while ago, I've set my hours count as low as possible for this journal entry, as it's my first one!)
+
+  
+
+## 10/30/2025 - Halfway Through Routing the PCB  
+
+Today I finished the boost converter circuit and the differential pair routing for RS485 inside it. I also started on the ATMega main board with the opamps, although I need to order a sample magnet core and wrap some wire around it to get values for the resistors. Otherwise, the boost converter circuit is looking pretty good, and I'm making decent progress here!
+
+Boost Converter:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8fb5df8117153f814b165a2baa41bd74e6fca0fb/image.png)
+
+One electromagnet face:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1NywicHVyIjoiYmxvYl9pZCJ9fQ==--48ee6e9e29998f4e88eb2a183b903b6d5ce22c19/image.png)
+
+Battery Face:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c181e9ce64ba6ea19cc1727567de58872d94e446/image.png)
+
+Main Face:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f12e15f36cb94d45d2f941b6a104cafd0ba811c8/image.png)
+
+
 
   
 
